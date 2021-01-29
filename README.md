@@ -1,9 +1,3 @@
-# assignment2-malladi  
-<!DOCTYPE html>
-<html> 
-<body> 
-<h1>Bala Shankar Malladi</h1>
-<h6>Hyderabadi Biryani</h6>
-<p> Beacuse of its <b>taste</b> and <b>smell</b> </p>
-</body>
-</html>
+# Bala Shankar Malladi
+###### Mutton Biriyani
+A hearty mutton biryani that will amaze your guests! Biryani is a dish that nobody can ever resist. Be it a dinner party or any celebratory occasion, **biryani seems to be an ideal main dish to serve along with a spicy salan or refreshing raita**.This is similar to the Chicken biryani in cooker. Most restaurants serve mutton biryani that is not dum cooked. **They usually cook rice and meat together** or sometimes the gravy is kept separate and biryani rice separate. They just mix and layer the gravy and biryani rice as and when they get orders.
