@@ -79,6 +79,6 @@ END CLASS
 |   Location       |      Relative Image       |
 |------------------|---------------------------|
 |    Laos          |      (Laos.jpg)             |
-|   Vietnam        |      vietnam.jpg          | 
-|   Cambodia       |     (C:\Users\S542419\Desktop\GitHub\assignment2-malladi\Images\Cambodia.jpg)         | 
-|Northern Thailand |  Northern Thailand.jpg    |   
+|   Vietnam        |      (vietnam.jpg)          | 
+|   Cambodia       |     (Cambodia.jpg)         | 
+|Northern Thailand |  (Northern Thailand.jpg)    |   
