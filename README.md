@@ -78,7 +78,7 @@ END CLASS
 
 |   Location       |      Relative Image       |
 |------------------|---------------------------|
-|    Laos          | !{[Laos](Laos.jpg)             |
+|    Laos          | ![Laos](Laos.jpg)             |
 |   Vietnam        | ![Vietam](vietnam.jpg)          | 
 |   Cambodia       | ![Cambodia](Cambodia.jpg)         | 
-|Northern Thailand |  ![Thailand](Northern Thailand.jpg)    |   
+|Northern Thailand |  ![Thailand](Thailand.jpg)    |   
