@@ -80,5 +80,5 @@ END CLASS
 |------------------|---------------------------|
 |    Laos          |      Laos.jpg             |
 |   Vietnam        |      vietnam.jpg          | 
-|   Cambodia       |      Cambodia.jpg         | 
+|   Cambodia       |     C:\Users\S542419\Desktop\GitHub\assignment2-malladi\Images\Cambodia.jpg         | 
 |Northern Thailand |  Northern Thailand.jpg    |   
