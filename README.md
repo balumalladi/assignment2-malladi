@@ -58,7 +58,8 @@ And in which the first column giving information about place name whreas second 
 
 [Click here to know about Z++](https://en.wikipedia.org/wiki/Z%2B%2B)
 
-~~~CLASS ClassName
+~~~
+CLASS ClassName
   [OWNS List_of_attributes]
   [FUNCTIONS constant_definitions]
   [TYPE type_declaration]
