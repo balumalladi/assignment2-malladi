@@ -16,6 +16,7 @@ A hearty mutton biryani that will amaze your guests! Biryani is a dish that nobo
 3. Mint
 
 * To cook rice
+
       * Two cups basmathi rice soaked for 20 minutes
       * Eight cups water
       * one bay leaf
