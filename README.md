@@ -69,4 +69,5 @@ CLASS ClassName
   [ACTIONS all_operations_declarations]
   [INVARIANT predicates]
   [HISTORY RTL_predicates]
-END CLASS~~~
+END CLASS
+~~~
