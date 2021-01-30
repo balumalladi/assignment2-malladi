@@ -71,3 +71,14 @@ CLASS ClassName
   [HISTORY RTL_predicates]
 END CLASS
 ~~~
+
+***
+
+# Images of the locations
+
+|   Location       |      Relative Image       |
+|------------------|---------------------------|
+|    Laos          |      Laos.jpg             |
+|   Vietnam        |      vietnam.jpg          | 
+|   Cambodia       |      Cambodia.jpg         | 
+|Northern Thailand |  Northern Thailand.jpg    |   
