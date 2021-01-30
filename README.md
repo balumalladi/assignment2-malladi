@@ -39,3 +39,11 @@ And in which the first column giving information about place name whreas second 
 |   Vietnam        |      10 days             |      $30/day            |
 |   Cambodia       |      7 days              |      $25/day            |
 |Northern Thailand |      14 days             |      $30/day            |
+
+---------------
+
+# Quotes
+
+>I have only made this letter longer because I have not had the time to make it shorter.***Blaise Pascal***
+>Mathematicians deal with large numbers sometimes, but never in their income.*** Isaac Asimov***
+>Nowadays you have to be a scientist if you want to be a killer.***Vladimir Nabokov***
