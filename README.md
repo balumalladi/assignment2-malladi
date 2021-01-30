@@ -49,3 +49,23 @@ And in which the first column giving information about place name whreas second 
 >Mathematicians deal with large numbers sometimes, but never in their income.***Isaac Asimov***
 
 >Nowadays you have to be a scientist if you want to be a killer.***Vladimir Nabokov***
+
+----------------
+
+# Code Fencing
+
+>Z++ allows for the definition of classes, and the relation of classes through inheritance, association, or aggregation. The primary construct of Z++ is a class. A Z++ class consists of a number of clauses which are optional.
+
+[Click here to know about Z++](https://en.wikipedia.org/wiki/Z%2B%2B)
+
+~~~CLASS ClassName
+  [OWNS List_of_attributes]
+  [FUNCTIONS constant_definitions]
+  [TYPE type_declaration]
+  [ENTENDS list_of_super_classes]
+  [OPERATIONS list_of_state_change_operations_definitions]
+  [RETURNS list_of_query_operations_definitions]
+  [ACTIONS all_operations_declarations]
+  [INVARIANT predicates]
+  [HISTORY RTL_predicates]
+END CLASS~~~
